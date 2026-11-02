@@ -1,0 +1,474 @@
+ok   14_43260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: 14_43260.dll: not a driver (no DriverProc export)
+ok   28_83260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: 28_83260.dll: not a driver (no DriverProc export)
+ok   3ivx.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: 3ivx.dll: pthreadVC2.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   ACDV.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ACDV'
+ok   ADV601.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ADV1'
+ok   AVSynchronizer.dll: 6 unimplemented import(s), 2 DLL(s) needed from disk, doesn't open: AVSynchronizer.dll: DSOUND.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   Amv2Codec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'AMV2'
+ok   AvidAVICodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'AVRn'
+ok   BMDCodecLib.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as 'HDYC'
+ok   CLLCcodc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'CLLC'
+ok   CSEUvec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: CSEUvec.dll: not a driver (no DriverProc export)
+ok   CUVCcodc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'CUVC'
+ok   G2M.dll: 180 unimplemented import(s), 8 DLL(s) needed from disk, doesn't open: G2M.dll: RPCRT4.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   G729DecoderDMO.dll: 3 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: G729DecoderDMO.dll: ATL90.DLL: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   GX264.dll: 5 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'G264'
+ok   GXAMP4.dll: 4 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'GMP4'
+ok   GeoCodec.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'GEOV'
+ok   Iyvu9_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'YVU9'
+ok   KGV1-VFW.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'KGV1'
+ok   LCMW2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: LCMW2.dll: not a driver (no DriverProc export)
+ok   LCODCCMW2E.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, DirectShow server, 3 filter(s), 0 DMO(s): 1 video decoder, 2 video encoders
+ok   LCodcCMP.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'LEAD'
+ok   M3JP2K322.dll: 5 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MJ2C'
+ok   MLZCodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MVLZ'
+ok   MP4Codec.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: MP4Codec.dll: MFC42.DLL: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   MV3.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MV30'
+ok   MVCodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MVDV'
+ok   Microsoft.Expression.Encoder.EEScreen.Codec.dll: 8 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+FAIL Movwpy2.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//Movwpy2.dll: not a PE file: no PE signature
+ok   MultiCodec.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, doesn't open: MultiCodec.dll: SImageLib.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   MultiDecoder.dll: 0 unimplemented import(s), 5 DLL(s) needed from disk, doesn't open: MultiDecoder.dll: not a driver (no DriverProc export)
+ok   Mvicod32.dll: 19 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: Mvicod32.dll: DllMain(DLL_PROCESS_ATTACH) failed
+ok   NewTek_SpeedHQ_Codec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'SHQ2'
+ok   NuB2.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: NuB2.dll: MFC42.DLL: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   QXPG_Lib-static.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: QXPG_Lib-static.dll: not a driver (no DriverProc export)
+ok   Rududu.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'RUD0'
+ok   SCCodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'SCCD'
+ok   SN4Codec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '\x00\x00\x00\x00'
+ok   Sif1_vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'SIF1'
+ok   VDODEC32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: VDODEC32.dll: not a driver (no DriverProc export)
+ok   VFCodec.dll: 52 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VIFP'
+ok   VQdecode.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VQC1'
+ok   ViVD2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'GXVE'
+ok   WCMV.dll: 1 unimplemented import(s), 2 DLL(s) needed from disk, doesn't open: WCMV.dll: zlib.dll: CRTDLL.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   WavCWAIP.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'wavc'
+ok   WavLor.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ADV1'
+ok   Zlib.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: Zlib.dll: CRTDLL.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   _arvic.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ARVI'
+ok   aslcodec_dshow.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, DirectShow server, 2 filter(s), 0 DMO(s): 1 video encoder
+ok   aslcodec_vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ASLC'
+ok   asusasv2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ASV2'
+ok   asusasvd.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ASV1'
+FAIL ativcr1.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//ativcr1.dll: not a PE file: no PE signature
+ok   ativcr2.dll: 14 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VCR2'
+FAIL atiyuv12.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//atiyuv12.dll: not a PE file: no PE signature
+FAIL atiyuvt.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//atiyuvt.dll: not a PE file: no PE signature
+ok   atiyvu9.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'YVU9'
+ok   atl.dll: 7 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: /storage/emulated/0/Download/codecs//atl.dll: DllRegisterServer failed (0x80029c4a)
+ok   atrc3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: atrc3260.dll: not a driver (no DriverProc export)
+ok   avimszh.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MSZH'
+ok   avizlib.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ZLIB'
+FAIL binkw32.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//binkw32.dll: bad PE file: section '.reloc' raw data runs past the end of the file
+ok   blox.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'BLOX'
+ok   bw10.dll: 1 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: bw10.dll: VTACCESS.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   camfc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'XJPG'
+ok   cdv5codc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'CDV5'
+ok   cdvccodc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'CDVC'
+ok   cdvhcodc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'CDVH'
+FAIL cinevf2w.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//cinevf2w.dll: unsupported machine type 0x8664 (only i386 is supported)
+ok   cinevfw.dll: 13 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: cinevfw.dll: DllMain(DLL_PROCESS_ATTACH) failed
+ok   cinevfw3.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, doesn't open: cinevfw3.dll: PSAPI.DLL: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   clrvidcc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: clrvidcc.dll: not a driver (no DriverProc export)
+ok   clrviddc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: clrviddc.dll: not a driver (no DriverProc export)
+ok   clrviddd.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'UCOD'
+ok   cook3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: cook3260.dll: not a driver (no DriverProc export)
+ok   csDShowcodc.dll: 1 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: csDShowcodc.dll: PSAPI.DLL: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   csccdvc.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as 'CDVC'
+ok   csccdvcx.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, opens as 'CDVC'
+ok   cseHQa.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: cseHQa.dll: not a driver (no DriverProc export)
+ok   csedv.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: csedv.dll: not a driver (no DriverProc export)
+ok   csedvh.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: csedvh.dll: not a driver (no DriverProc export)
+ok   csellc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: csellc.dll: not a driver (no DriverProc export)
+ok   csthread.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: csthread.dll: not a driver (no DriverProc export)
+ok   cvpcdvc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: cvpcdvc.dll: the driver refused DRV_LOAD
+ok   ddnt3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: ddnt3260.dll: not a driver (no DriverProc export)
+ok   decvdo.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: decvdo.dll: DecFrame.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   divx.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'DIVX'
+ok   divxc32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'DIV3'
+ok   dnet3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: dnet3260.dll: not a driver (no DriverProc export)
+ok   drv13260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: drv13260.dll: not a driver (no DriverProc export)
+ok   drv23260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: drv23260.dll: not a driver (no DriverProc export)
+ok   drv33260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: drv33260.dll: not a driver (no DriverProc export)
+ok   drv43260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: drv43260.dll: not a driver (no DriverProc export)
+ok   dspr3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: dspr3260.dll: not a driver (no DriverProc export)
+ok   ficvdec_x86.dll: 9 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'FICV'
+ok   fjht264.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'H264'
+ok   frapsvid.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'FPS1'
+ok   frwd.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'FRWD'
+ok   frwt.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'FRWT'
+ok   frwu.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'FRWU'
+ok   huffyuv.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'HFYU'
+ok   iccvid.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'cvid'
+ok   icmw_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MWV1'
+ok   ir32_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'IV32'
+ok   ir41_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'IV41'
+ok   ir50_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'IV50'
+ok   iscc.dll: 10 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ISCC'
+ok   ivvideo.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'vivo'
+ok   jp2avi.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'IPJ2'
+ok   kdvyuv8.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'YUV8'
+ok   lagarith.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'LAGS'
+ok   ldadinst.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: ldadinst.dll: not a driver (no DriverProc export)
+FAIL libeay32.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//libeay32.dll: bad PE file: section '.text' raw data runs past the end of the file
+ok   libguide40.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: libguide40.dll: not a driver (no DriverProc export)
+ok   lsvxdec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'LSVX'
+ok   m3jp2k32.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MJ2C'
+ok   m3jpeg32.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MJPG'
+ok   mcdvd_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '\x00\x00\x00\x00'
+ok   mcmjpg32.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: mcmjpg32.dll: crtdll.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   mmtvmj.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'TVMJ'
+ok   mnmpeg4.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MNM4'
+ok   mp43dmod.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   mp4sdmod.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   mpg4c32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MPG4'
+ok   mpg4dmod.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   msrle32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MRLE'
+ok   msscmc32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MPG4'
+ok   msvcm90.dll: 43 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: msvcm90.dll: mscoree.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   msvcp90.dll: 32 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: msvcp90.dll: not a driver (no DriverProc export)
+ok   msvcr100.dll: 17 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: msvcr100.dll: not a driver (no DriverProc export)
+ok   msvcr90.dll: 12 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: msvcr90.dll: not a driver (no DriverProc export)
+ok   msvidc32.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: msvidc32.dll: CRTDLL.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+FAIL mvicod16.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//mvicod16.dll: not a PE file: no PE signature
+FAIL mvicodec.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//mvicodec.dll: not a PE file: no PE signature
+ok   mwsc.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'MWSC'
+ok   npqtplugin.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: npqtplugin.dll: not a driver (no DriverProc export)
+ok   npqtplugin2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: npqtplugin2.dll: not a driver (no DriverProc export)
+ok   npqtplugin3.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: npqtplugin3.dll: not a driver (no DriverProc export)
+ok   npqtplugin4.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: npqtplugin4.dll: not a driver (no DriverProc export)
+ok   npqtplugin5.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: npqtplugin5.dll: not a driver (no DriverProc export)
+ok   nsvideo.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'NSVI'
+FAIL packed.dll: probe crashed or hung (exit 139)
+     seance: crash: SIGSEGV at 0x2c4f0100, accessing 0x2c4f0100
+     seance:   in DllMain(DLL_PROCESS_DETACH) of packed.dll
+ok   parsedatapacket.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: parsedatapacket.dll: not a driver (no DriverProc export)
+ok   pclepim1.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'PIM1'
+ok   pncrt.dll: 8 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: pncrt.dll: not a driver (no DriverProc export)
+ok   psiv.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'PSIV'
+ok   pvljpg20.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'pimj'
+ok   pvmjpg21.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'mjpg'
+ok   pvwv220.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'PVW2'
+ok   qdv.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, DirectShow server, 4 filter(s), 0 DMO(s): 1 video decoder, 1 video encoder
+ok   qpeg32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'QPEG'
+ok   qstereo.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: qstereo.dll: not a driver (no DriverProc export)
+ok   qtmlClient.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: qtmlClient.dll: not a driver (no DriverProc export)
+ok   raylightCodec.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'RAYL'
+ok   rnco3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: rnco3260.dll: not a driver (no DriverProc export)
+ok   rricm.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: rricm.dll: the driver refused DRV_LOAD
+ok   rt32cmp.dll: 7 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: rt32cmp.dll: not a driver (no DriverProc export)
+ok   rt32dcmp.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: rt32dcmp.dll: not a driver (no DriverProc export)
+ok   rushdll.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'RuSH'
+ok   rv103260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: rv103260.dll: not a driver (no DriverProc export)
+ok   rv203260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: rv203260.dll: not a driver (no DriverProc export)
+ok   rv303260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: rv303260.dll: not a driver (no DriverProc export)
+ok   scdec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   scpr.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'SCPR'
+ok   scrvid.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ZDSV'
+ok   siaviref.dll: 1 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: siaviref.dll: NETAPI32.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   sipr3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: sipr3260.dll: not a driver (no DriverProc export)
+ok   sirenacm.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, ACM driver 'Messenger Audio Codec': 0x028e no PCM either way
+ok   slif.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '\x00\x00\x00\x00'
+ok   smv2vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'SMV2'
+ok   sp4x_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '\x00\x00\x00\x00'
+ok   sp5x_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '\x00\x00\x00\x00'
+ok   sp6x_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '\x00\x00\x00\x00'
+ok   tm2x.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, doesn't open: tm2x.dll: MFC42.DLL: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   tokr3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: tokr3260.dll: not a driver (no DriverProc export)
+ok   tr2032.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'TR20'
+ok   tsc2_codec32.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'tsc2'
+ok   tsccvid.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'tscc'
+ok   tsd32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: tsd32.dll: not a driver (no DriverProc export)
+ok   tvqdec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: tvqdec.dll: not a driver (no DriverProc export)
+ok   ubvmp4d.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'UMP4'
+ok   ultimo.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ULTI'
+ok   vcmimm4.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'IMM4'
+ok   vcmimm6.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'IMM6'
+ok   vcmimm6_2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'IMM6'
+ok   vgpix32d.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VGPX'
+ok   vmnc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VMnc'
+ok   vp31vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VP31'
+ok   vp4vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VP40'
+FAIL vp5ra.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//vp5ra.dll: not a PE file: no PE signature
+FAIL vp5rfile.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//vp5rfile.dll: not a PE file: no PE signature
+FAIL vp5rv.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//vp5rv.dll: not a PE file: no PE signature
+ok   vp5vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VP50'
+ok   vp6vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VP62'
+ok   vp7vfw.dll: 18 unimplemented import(s), 2 DLL(s) needed from disk, doesn't open: vp7vfw.dll: oledlg.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   vssh264.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, doesn't open: vssh264.dll: vssh264core.dll: vssh264enc.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   vssh264core.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, doesn't open: vssh264core.dll: vssh264enc.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   vssh264dec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: vssh264dec.dll: not a driver (no DriverProc export)
+ok   vsshdsd.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, DirectShow server, 1 filter(s), 0 DMO(s): 1 video decoder
+ok   vsslight.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'VSSV'
+ok   vsswlt.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, doesn't open: vsswlt.dll: vsswltconf.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   vxtr.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, doesn't open: vxtr.dll: ENC263.dll: not found (searched the importer's directory, $VFW_PATH and the current directory)
+ok   wavelet.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ADV1'
+ok   wma9dmod.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 audio decoder
+ok   wmadmod.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 audio decoder
+ok   wmadmoe.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 audio encoder
+ok   wms10dmod.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   wmsdmod.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   wmsdmoe2.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video encoder
+ok   wmspdmod.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 audio decoder
+ok   wmspdmoe.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 audio encoder
+ok   wmv9dmod.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   wmvadvd.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   wmvdmod.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   wmvdmoe2.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video encoder
+ok   wnvplay1.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'YUY2'
+ok   wnvwinx.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'WINX'
+ok   wv32vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'SMSV'
+ok   wvc1dmod.dll: 4 unimplemented import(s), 0 DLL(s) needed from disk, DMO server, 0 filter(s), 1 DMO(s): 1 video decoder
+ok   xanlib.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'Xxan'
+ok   xfcodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'XFR1'
+ok   zlib1.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, doesn't open: zlib1.dll: not a driver (no DriverProc export)
+ok   zmbv.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as 'ZMBV'
+samples: 223 DLL(s), 13 failure(s)
+ok   14_43260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   28_83260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   3ivx.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   ACDV.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ADV601.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   AVSynchronizer.dll: 6 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   Amv2Codec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   AvidAVICodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   BMDCodecLib.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   CLLCcodc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   CSEUvec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   CUVCcodc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   G2M.dll: 180 unimplemented import(s), 8 DLL(s) needed from disk, opens as '?'
+ok   G729DecoderDMO.dll: 3 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   GX264.dll: 5 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   GXAMP4.dll: 4 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   GeoCodec.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   Iyvu9_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   KGV1-VFW.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   LCMW2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   LCODCCMW2E.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   LCodcCMP.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   M3JP2K322.dll: 5 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   MLZCodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   MP4Codec.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   MV3.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   MVCodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   Microsoft.Expression.Encoder.EEScreen.Codec.dll: 8 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+FAIL Movwpy2.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//Movwpy2.dll: not a PE file: no PE signature
+ok   MultiCodec.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   MultiDecoder.dll: 0 unimplemented import(s), 5 DLL(s) needed from disk, opens as '?'
+ok   Mvicod32.dll: 19 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   NewTek_SpeedHQ_Codec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   NuB2.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   QXPG_Lib-static.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   Rududu.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   SCCodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   SN4Codec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   Sif1_vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   VDODEC32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   VFCodec.dll: 52 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   VQdecode.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ViVD2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   WCMV.dll: 1 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   WavCWAIP.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   WavLor.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   Zlib.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   _arvic.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   aslcodec_dshow.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   aslcodec_vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   asusasv2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   asusasvd.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+FAIL ativcr1.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//ativcr1.dll: not a PE file: no PE signature
+ok   ativcr2.dll: 14 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+FAIL atiyuv12.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//atiyuv12.dll: not a PE file: no PE signature
+FAIL atiyuvt.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//atiyuvt.dll: not a PE file: no PE signature
+ok   atiyvu9.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   atl.dll: 7 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   atrc3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   avimszh.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   avizlib.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+FAIL binkw32.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//binkw32.dll: bad PE file: section '.reloc' raw data runs past the end of the file
+ok   blox.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   bw10.dll: 1 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   camfc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   cdv5codc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   cdvccodc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   cdvhcodc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+FAIL cinevf2w.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//cinevf2w.dll: unsupported machine type 0x8664 (only i386 is supported)
+ok   cinevfw.dll: 13 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   cinevfw3.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   clrvidcc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   clrviddc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   clrviddd.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   cook3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   csDShowcodc.dll: 1 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   csccdvc.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   csccdvcx.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   cseHQa.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   csedv.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   csedvh.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   csellc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   csthread.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   cvpcdvc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ddnt3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   decvdo.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   divx.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   divxc32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   dnet3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   drv13260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   drv23260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   drv33260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   drv43260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   dspr3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   ficvdec_x86.dll: 9 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   fjht264.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   frapsvid.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   frwd.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   frwt.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   frwu.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   huffyuv.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   iccvid.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   icmw_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ir32_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ir41_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ir50_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   iscc.dll: 10 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ivvideo.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   jp2avi.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   kdvyuv8.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   lagarith.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ldadinst.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+FAIL libeay32.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//libeay32.dll: bad PE file: section '.text' raw data runs past the end of the file
+ok   libguide40.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   lsvxdec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   m3jp2k32.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   m3jpeg32.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   mcdvd_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   mcmjpg32.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   mmtvmj.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   mnmpeg4.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   mp43dmod.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   mp4sdmod.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   mpg4c32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   mpg4dmod.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   msrle32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   msscmc32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   msvcm90.dll: 43 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   msvcp90.dll: 32 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   msvcr100.dll: 17 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   msvcr90.dll: 12 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   msvidc32.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+FAIL mvicod16.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//mvicod16.dll: not a PE file: no PE signature
+FAIL mvicodec.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//mvicodec.dll: not a PE file: no PE signature
+ok   mwsc.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   npqtplugin.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   npqtplugin2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   npqtplugin3.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   npqtplugin4.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   npqtplugin5.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   nsvideo.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   packed.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   parsedatapacket.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   pclepim1.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   pncrt.dll: 8 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   psiv.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   pvljpg20.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   pvmjpg21.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   pvwv220.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   qdv.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   qpeg32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   qstereo.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   qtmlClient.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   raylightCodec.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   rnco3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   rricm.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   rt32cmp.dll: 7 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   rt32dcmp.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   rushdll.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   rv103260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   rv203260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   rv303260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   scdec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   scpr.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   scrvid.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   siaviref.dll: 1 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   sipr3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   sirenacm.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   slif.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   smv2vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   sp4x_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   sp5x_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   sp6x_32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   tm2x.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   tokr3260.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   tr2032.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   tsc2_codec32.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   tsccvid.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   tsd32.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   tvqdec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ubvmp4d.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   ultimo.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vcmimm4.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vcmimm6.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vcmimm6_2.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vgpix32d.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vmnc.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vp31vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vp4vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+FAIL vp5ra.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//vp5ra.dll: not a PE file: no PE signature
+FAIL vp5rfile.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//vp5rfile.dll: not a PE file: no PE signature
+FAIL vp5rv.dll: info exited 1
+     seance: /storage/emulated/0/Download/codecs//vp5rv.dll: not a PE file: no PE signature
+ok   vp5vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vp6vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vp7vfw.dll: 18 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   vssh264.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   vssh264core.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   vssh264dec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vsshdsd.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vsslight.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   vsswlt.dll: 0 unimplemented import(s), 1 DLL(s) needed from disk, opens as '?'
+ok   vxtr.dll: 0 unimplemented import(s), 2 DLL(s) needed from disk, opens as '?'
+ok   wavelet.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wma9dmod.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmadmod.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmadmoe.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wms10dmod.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmsdmod.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmsdmoe2.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmspdmod.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmspdmoe.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmv9dmod.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmvadvd.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmvdmod.dll: 2 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wmvdmoe2.dll: 1 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wnvplay1.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wnvwinx.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wv32vfw.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   wvc1dmod.dll: 4 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   xanlib.dll: 3 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   xfcodec.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   zlib1.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+ok   zmbv.dll: 0 unimplemented import(s), 0 DLL(s) needed from disk, opens as '?'
+samples: 223 DLL(s), 12 failure(s)
